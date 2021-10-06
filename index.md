@@ -1,4 +1,4 @@
-## HaozheLiu
+## Haozhe Liu
 
 SUST (Shannxi University of Science and Technology)
 
