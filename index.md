@@ -32,7 +32,7 @@ Liu, F., **Liu, H.**, Zhang, W., Chen, J., Shen, L. & Wang, L. . A robust roi ex
 
 The convolutional neural network (CNN) is vulnerable to degraded images with even very small variations (e.g. corrupted and adversarial samples). One of the possible reasons is that CNN pays more attention to the most discriminative regions, but ignores the auxiliary features when learning, leading to the lack of feature diversity for final judgment. In our method, we propose to dynamically suppress significant activation values of CNN by group-wise inhibition, but not fixedly or randomly handle them when training. The feature maps with different activation distribution are then processed separately to take the feature independence into account. CNN is finally guided to learn richer discriminative features hierarchically for robust classification according to the proposed regularization. Our method is comprehensively evaluated under multiple settings, including classification against corruptions, adversarial attacks and low data regime. Extensive experimental results show that the proposed method can achieve signifi- cant improvements in terms of both robustness and general- ization performances, when compared with the state-of-the-art methods. 
 
-[Code](https://github. com/LinusWu/TENET_Training) 
+[Code](https://github.com/LinusWu/TENET_Training) 
 
 [Arxiv](https://arxiv.org/abs/2103.02152) 
 
