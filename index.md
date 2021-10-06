@@ -12,6 +12,8 @@ B.S. in AI Lab, Shaanxi University of Science and Technology under the supervisi
 - National University Big Data Application Innovation Competition, Second Place in 2018
 - Undergraduate thesis was awarded the first prize of excellent graduation design (Thesis) of SUST in 2019
 
+---
+
 M.S. in Computer Vision Institute (CVI), Shenzhen University (SZU) under the supervision of [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
 
 - China National Scholarship (Rate<0.02%, Rank 1 in SZU) in 2021 
