@@ -1,8 +1,8 @@
 ## Haozhe Liu
 
-He is currently working towards the MS degree in Computer Vision Institute  Shenzhen University (CS Rank 68 in USNews2020). He had published several papers on top-tier journals/conferences, including ICCV, IEEE trans on Image Processing, IEEE trans on Cybernetics, etc.. He won First-Class Excellent Academic Scholarship in 2020 and China National Scholarship (Rate<0.02%, Rank 1 in College of Computer Science and Software Engineering, SZU) in 2021. Currently, he is a member (internship) of [Jarvis Lab](https://jarvislab.tencent.com/), Tencent and a visiting student at Norwegian Biometrics Laboratory, Norwegian University of Science and Technology (NTNU). His research interests include self-supervised learning and adversarial learning,  especially focus on their applications to computer vision. He is looking for a Ph.D/ position (ML/CV-related, 22 Fall). Please email him if you are interested. (Oct. 6, 2021)
+He is currently working towards the MS degree in Computer Vision Institute  Shenzhen University (CS Rank 68 in USNews2020). He had published several papers on top-tier journals/conferences, including ICCV, IEEE trans on Image Processing, IEEE trans on Cybernetics, etc.. He won First-Class Excellent Academic Scholarship in 2020 and China National Scholarship (Rate<0.02%, Rank 1 in College of Computer Science and Software Engineering, SZU) in 2021. Currently, he is a member (internship) of [Jarvis Lab](https://jarvislab.tencent.com/), Tencent and a visiting student at Norwegian Biometrics Laboratory, Norwegian University of Science and Technology (NTNU). His research interests include self-supervised learning and adversarial learning,  especially focus on their applications to computer vision. He is looking for a Ph.D position (ML/CV-related, 22 Fall). Please email him if you are interested. (Oct. 6, 2021)
 
-Email: liuhaozhe2019 AT email DOT szu DOT edu DOT cn   &  [Google Scholar Link](https://scholar.google.com/citations?user=QX51P54AAAAJ&hl=zh-CN) 
+Email: liuhaozhe2019 AT email DOT szu DOT edu DOT cn   |  [Google Scholar Link](https://scholar.google.com/citations?user=QX51P54AAAAJ&hl=zh-CN)    |  [Github Page](https://haozheliu-st.github.io/)
 
 ### Education
 
@@ -18,25 +18,12 @@ M.S. in Computer Vision Institute (CVI), Shenzhen University (SZU) under the sup
 - Excellent Academic Scholarship, First Class in 2020
 - Excellent Academic Scholarship, Second Class in 2020
 
-```markdown
-Syntax highlighted code block
+### Research Experience
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Jarvis Lab (Tencent) 
+Supervised by Mentor: [Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en), Leader: [Kai Ma](https://scholar.google.ch/citations?user=FSSXeyAAAAAJ&hl=en) and Director: [Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
+  - Defense adversarial attacks from a view of interpolation.
+  - Investigated the application of manifold theory in self-supervised learning.
 
 ### Jekyll Themes
 
