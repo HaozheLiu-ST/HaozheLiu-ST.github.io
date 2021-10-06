@@ -32,6 +32,8 @@ M.S. in Computer Vision Institute (CVI), Shenzhen University (SZU) under the sup
 
 Liu, F., **Liu, H**., Zhang, W., Liu, G., & Shen, L. (2021). One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network. _IEEE Transactions on Image Processing, 30, 2394-2407_.
 
+Liu, F., Shen, C., **Liu, H.**, Liu, G., Liu, Y., Guo, Z., & Wang, L. (2020). A flexible touch-based fingerprint acquisition device and a benchmark database using optical coherence tomography. _IEEE Transactions on Instrumentation and Measurement_, 69(9), 6518-6529.
+
 Lin, L.\*, **Liu, H.** \*, Zhang, W., Liu, F., & Lai, Z. (2021, August). Finger Vein Verification using Intrinsic and Extrinsic Features. In 2021 _IEEE International Joint Conference on Biometrics (IJCB) (pp. 1-7)_. (* Equal Contribution)
 
 Zhang, W., **Liu, H.**, & Liu, F. (2021, July). Fingerprint Presentation Attack Detection by Learning in Frequency Domain. In 2021 IEEE 2nd International Conference on Pattern Recognition and Machine Learning (PRML) (pp. 183-189). IEEE. (Oral, Best Oral Presentation)
@@ -60,10 +62,6 @@ M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-C
 - Proposed a Manifold-preserved GANs to mitigate the mode collapse and gradient exploding, which is prepared to submit to CVPR 2022.
 - Collected a famous presentation attack dataset based on OCT and for the first time established a one-class framework for OCT based PAD.
 - Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 for the first time
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HaozheLiu-ST/haozheliu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Research Samples
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
