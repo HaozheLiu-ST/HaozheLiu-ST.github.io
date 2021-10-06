@@ -2,7 +2,7 @@
 
 He is currently working towards the MS degree in Computer Vision Institute  Shenzhen University (CS Rank 68 in USNews2020). He had published several papers on top-tier journals/conferences, including ICCV, IEEE trans on Image Processing, IEEE trans on Cybernetics, etc.. He won First-Class Excellent Academic Scholarship in 2020 and China National Scholarship (Rate<0.02%, Rank 1 in College of Computer Science and Software Engineering, SZU) in 2021. Currently, he is a member (internship) of [Jarvis Lab](https://jarvislab.tencent.com/), Tencent and a visiting student at Norwegian Biometrics Laboratory, Norwegian University of Science and Technology (NTNU). His research interests include self-supervised learning and adversarial learning,  especially focus on their applications to computer vision. He is looking for a Ph.D/ position (ML/CV-related, 22 Fall). Please email him if you are interested. (Oct. 6, 2021)
 
- 
+Email: [liuhaozhe2019 AT email.szu.edu.cn](liuhaozhe2019@email.szu.edu.cn)      [Google Scholar](https://scholar.google.com/citations?user=QX51P54AAAAJ&hl=zh-CN) 
 
 ### Education
 
