@@ -21,12 +21,26 @@ M.S. in Computer Vision Institute (CVI), Shenzhen University (SZU) under the sup
 - Excellent Academic Scholarship, Second Class in 2020
 
 ### Research Experience
----
+
 #### Jarvis Lab (Tencent) 
-Supervised by Mentor: [Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en), Leader: [Kai Ma](https://scholar.google.ch/citations?user=FSSXeyAAAAAJ&hl=en) and Director: [Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
+Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en), Leader: [Dr. Kai Ma](https://scholar.google.ch/citations?user=FSSXeyAAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
   - Defense adversarial attacks from a view of interpolation.
   - Investigated the application of manifold theory in self-supervised learning.
 
+---
+
+#### Norwegian Biometrics Laboratory (NTNU)
+Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
+
+- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to AAAI 2021.
+- Proposed a face presentation attack detector based on the multimodal representation, which is prepared to submit to CVPR 2022.
+
+#### Computer Vision Insitute (SZU)
+M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
+- Proposed a regularization method to imporve the robustness of CNN based models, which is accepted by ICCV 2021 and open source.
+- Proposed a Manifold-preserved GANs to mitigate the mode collapse and gradient exploding, which is prepared to submit to CVPR 2022.
+- Collected a famous presentation attack dataset based on OCT and for the first time established a one-class framework for OCT based PAD.
+- Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 for the first time
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HaozheLiu-ST/haozheliu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
