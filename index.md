@@ -75,11 +75,13 @@ Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.
 - Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to **AAAI 2021**.
 - Proposed a face presentation attack detector based on the multimodal representation, which is prepared to submit to **CVPR 2022**.
 
+---
+
 #### Computer Vision Insitute (SZU)
 M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
 - Proposed a regularization method to imporve the robustness of CNN based models, which is accepted by **ICCV 2021** and open source.
 - Proposed a Manifold-preserved GANs to mitigate the mode collapse and gradient exploding, which is prepared to submit to **CVPR 2022**.
-- Collected a famous presentation attack dataset based on OCT and for the first time established a one-class framework for OCT based PAD.
+- Collected a famous presentation attack dataset based on OCT and **for the first time** established a one-class framework for OCT based PAD.
 - Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 **for the first time**.
 
 
