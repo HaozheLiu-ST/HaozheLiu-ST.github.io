@@ -4,22 +4,6 @@ He is currently working towards the MS degree in Computer Vision Institute  Shen
 
 Email: liuhaozhe2019 AT email DOT szu DOT edu DOT cn   |  [Google Scholar Link](https://scholar.google.com/citations?user=QX51P54AAAAJ&hl=zh-CN)    |  [Github Page](https://haozheliu-st.github.io/)
 
-### Education
-
-B.S. in AI Lab, Shaanxi University of Science and Technology under the supervision of Dr. Yong Qi
-
-- National University Big Data Application Innovation Competition in Northwest, First Place in 2018
-- National University Big Data Application Innovation Competition, Second Place in 2018
-- Undergraduate thesis was awarded the first prize of excellent graduation design (Thesis) of SUST in 2019
-
----
-
-M.S. in Computer Vision Institute (CVI), Shenzhen University (SZU) under the supervision of [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
-
-- China National Scholarship (Rate<0.02%, Rank 1 in SZU) in 2021 
-- Excellent Academic Scholarship, First Class in 2020
-- Excellent Academic Scholarship, Second Class in 2020
-
 ### Selected Publications
 
 **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. (2021). Group-wise Inhibition based Feature Regularization for Robust Classification. _International Conference on Computer Vision (ICCV)_ 
@@ -40,6 +24,13 @@ Zhang, W., **Liu, H.**, & Liu, F. (2021, July). Fingerprint Presentation Attack 
 
 Liu, F., **Liu, H.**, Zhang, W., Chen, J., Shen, L. & Wang, L. . A robust roi extraction method for biometrics using adversarial structure. _Acta Automatica Sinica_, 2020, 46(x): 1−14 doi: 10.16383/j.aas.c200156 
 
+### Research Samples
+
+Group-wise Inhibition based Feature Regularization for Robust Classification 
+![](./fig/group.png)
+[Code]() [Arxiv]() 
+
+The convolutional neural network (CNN) is vulnerable to degraded images with even very small variations (e.g. corrupted and adversarial samples). One of the possible reasons is that CNN pays more attention to the most discriminative regions, but ignores the auxiliary features when learning, leading to the lack of feature diversity for final judgment. In our method, we propose to dynamically suppress significant activation values of CNN by group-wise inhibition, but not fixedly or randomly handle them when training. The feature maps with different activation distribution are then processed separately to take the feature independence into account. CNN is finally guided to learn richer discriminative features hierarchically for robust clas- sification according to the proposed regularization. Our method is comprehensively evaluated under multiple settings, including classification against corruptions, adversarial attacks and low data regime. Extensive experimental results show that the proposed method can achieve signifi- cant improvements in terms of both robustness and general- ization performances, when compared with the state-of-the-art methods.
 
 ### Research Experience
 
@@ -63,5 +54,19 @@ M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-C
 - Collected a famous presentation attack dataset based on OCT and for the first time established a one-class framework for OCT based PAD.
 - Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 for the first time
 
-### Research Samples
 
+### Education
+
+B.S. in AI Lab, Shaanxi University of Science and Technology under the supervision of Dr. Yong Qi
+
+- National University Big Data Application Innovation Competition in Northwest, First Place in 2018
+- National University Big Data Application Innovation Competition, Second Place in 2018
+- Undergraduate thesis was awarded the first prize of excellent graduation design (Thesis) of SUST in 2019
+
+---
+
+M.S. in Computer Vision Institute (CVI), Shenzhen University (SZU) under the supervision of [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
+
+- China National Scholarship (Rate<0.02%, Rank 1 in SZU) in 2021 
+- Excellent Academic Scholarship, First Class in 2020
+- Excellent Academic Scholarship, Second Class in 2020
