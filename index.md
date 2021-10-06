@@ -1,6 +1,6 @@
 ## Haozhe Liu
 
-He is currently working towards the MS degree in Computer Vision Institute  Shenzhen University (CS Rank 68 in USNews2020). He had published several papers on top-tier journals/conferences, including ICCV, IEEE trans on Image Processing, IEEE trans on Cybernetics, etc.. He won First-Class Excellent Academic Scholarship in 2020 and China National Scholarship (Rate<0.02%, Rank 1 in College of Computer Science and Software Engineering, SZU) in 2021. Currently, he is a member (internship) of [Jarvis Lab](https://jarvislab.tencent.com/), Tencent and a visiting student at Norwegian Biometrics Laboratory, Norwegian University of Science and Technology (NTNU). His research interests include self-supervised learning and adversarial learning,  especially focus on their applications to computer vision. He is looking for a Ph.D position (ML/CV-related, 22 Fall). Please email him if you are interested. (Oct. 6, 2021)
+He is currently working towards the MS degree in Computer Vision Institute  Shenzhen University (CS Rank 68 in USNews2020). He had published several papers on top-tier journals/conferences, including ICCV, IEEE trans on Image Processing, IEEE trans on Cybernetics, etc.. He won First-Class Excellent Academic Scholarship in 2020 and China National Scholarship (Rate<0.02%, Rank 1 in College of Computer Science and Software Engineering, SZU) in 2021. Currently, he is a member (internship) of [Jarvis Lab](https://jarvislab.tencent.com/), Tencent and a visiting student at Norwegian Biometrics Laboratory, Norwegian University of Science and Technology (NTNU). His research interests include regularization, self-supervised learning and adversarial learning,  especially focus on their applications to computer vision. He is looking for a Ph.D position (ML/CV-related, 22 Fall). Please email him if you are interested. (Oct. 6, 2021)
 
 Email: liuhaozhe2019 AT email DOT szu DOT edu DOT cn   |  [Google Scholar Link](https://scholar.google.com/citations?user=QX51P54AAAAJ&hl=zh-CN)    |  [Github Page](https://haozheliu-st.github.io/)
 
@@ -26,11 +26,39 @@ Liu, F., **Liu, H.**, Zhang, W., Chen, J., Shen, L. & Wang, L. . A robust roi ex
 
 ### Research Samples
 
-Group-wise Inhibition based Feature Regularization for Robust Classification 
-![](./fig/group.png)
-[Code]() [Arxiv]() 
+#### Group-wise Inhibition based Feature Regularization for Robust Classification 
 
-The convolutional neural network (CNN) is vulnerable to degraded images with even very small variations (e.g. corrupted and adversarial samples). One of the possible reasons is that CNN pays more attention to the most discriminative regions, but ignores the auxiliary features when learning, leading to the lack of feature diversity for final judgment. In our method, we propose to dynamically suppress significant activation values of CNN by group-wise inhibition, but not fixedly or randomly handle them when training. The feature maps with different activation distribution are then processed separately to take the feature independence into account. CNN is finally guided to learn richer discriminative features hierarchically for robust clas- sification according to the proposed regularization. Our method is comprehensively evaluated under multiple settings, including classification against corruptions, adversarial attacks and low data regime. Extensive experimental results show that the proposed method can achieve signifi- cant improvements in terms of both robustness and general- ization performances, when compared with the state-of-the-art methods.
+![](./fig/group.png)
+
+The convolutional neural network (CNN) is vulnerable to degraded images with even very small variations (e.g. corrupted and adversarial samples). One of the possible reasons is that CNN pays more attention to the most discriminative regions, but ignores the auxiliary features when learning, leading to the lack of feature diversity for final judgment. In our method, we propose to dynamically suppress significant activation values of CNN by group-wise inhibition, but not fixedly or randomly handle them when training. The feature maps with different activation distribution are then processed separately to take the feature independence into account. CNN is finally guided to learn richer discriminative features hierarchically for robust classification according to the proposed regularization. Our method is comprehensively evaluated under multiple settings, including classification against corruptions, adversarial attacks and low data regime. Extensive experimental results show that the proposed method can achieve signifi- cant improvements in terms of both robustness and general- ization performances, when compared with the state-of-the-art methods. 
+
+[Code](https://github. com/LinusWu/TENET_Training) 
+
+[Arxiv](https://arxiv.org/abs/2103.02152) 
+
+---
+
+#### Manifold-preserved GANs 
+
+![](./fig/gan.png)
+
+Generative Adversarial Networks (GANs) have been widely adopted in various fields. However, existing GANs generally are not able to preserve the manifold of data space, mainly due to the simple representation of discriminator for the real/generated data. To address such open challenges, this paper proposes Manifold-preserved GANs (MaF-GANs), which generalize Wasserstein GANs into high-dimensional form. Specifically, to improve the representation of data, the discriminator in MaF-GANs is designed to map data into a high-dimensional manifold. Furthermore, to stabilize the training of MaF-GANs, an operation with precise and universal solution for any K-Lipschitz continuity, called Topological Consistency is proposed. The effectiveness of the proposed method is justified by both theoretical analysis and empirical results. When adopting DCGAN as the backbone on CelebA (256×256), the proposed method achieved 12.43 FID, which outperforms the state-of-the-art model like Realness GAN (23.51 FID) by a large margin. 
+
+_Code will be made publicly available_. 
+
+[Arxiv](https://arxiv.org/abs/2109.08955)
+
+---
+
+#### Taming Self-Supervised Learning for Presentation Attack Detection: In-Image De-Folding and Out-of-Image De-Mixing
+
+![](./fig/ssl.png)
+
+Biometric systems are vulnerable to the Presentation At- tacks (PA) performed using various Presentation Attack Instruments (PAIs). Even though there are numerous Presentation Attack Detection (PAD) techniques based on both deep learning and hand-crafted features, the generalization of PAD for unknown PAI is still a challenging problem. The common problem with existing deep learning-based PAD tech- niques is that they may struggle with local optima, resulting in weak generalization against different PAs. In this work, we propose to use self-supervised learning to find a reasonable initialization against local trap, so as to improve the generalization ability in detecting PAs on the biometric system. The proposed method, denoted as IF-OM, is based on a global- local view coupled with De-Folding and De-Mixing to derive the task-specific representation for PAD.During De-Folding, the proposed technique will learn region-specific features to represent samples in a local pattern by explicitly maximiz- ing cycle consistency. While, De-Mixing drives detectors to obtain the instance-specific features with global information for more comprehensive representation by maximizing topo- logical consistency. Extensive experimental results show that the proposed method can achieve significant improvements in terms of both face and fingerprint PAD in more complicated and hybrid datasets, when compared with the state-of- the-art methods. Specifically, when training in CASIA-FASD and Idiap Replay-Attack, the proposed method can achieve 18.60% Equal Error Rate (EER) in OULU-NPU and MSU- MFSD, exceeding baseline performance by 9.54%. 
+
+_Code will be made publicly available_. 
+
+[Arxiv](https://arxiv.org/abs/2109.04100) 
 
 ### Research Experience
 
