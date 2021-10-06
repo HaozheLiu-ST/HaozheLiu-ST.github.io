@@ -6,14 +6,17 @@ He is currently working towards the MS degree in Computer Vision Institute  Shen
 
 ### Education
 
-B.S. in AI Lab, Shaanxi University of Science and Technology (SUST) under the supervision of Dr. Yong Qi
+B.S. in AI Lab, Shaanxi University of Science and Technology under the supervision of Dr. Yong Qi
 
-- Undergraduate thesis was awarded the first prize of excellent graduation design (Thesis) of SUST in 2019.
+- National University Big Data Application Innovation Competition in Northwest, First Place in 2018
+- National University Big Data Application Innovation Competition, Second Place in 2018
+- Undergraduate thesis was awarded the first prize of excellent graduation design (Thesis) of SUST in 2019
 
 M.S. in Computer Vision Institute (CVI), Shenzhen University (SZU) under the supervision of [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
 
-- China National Scholarship (Rate<0.02%, I'm Rank 1 in SZU) in 2021 
-
+- China National Scholarship (Rate<0.02%, Rank 1 in SZU) in 2021 
+- Excellent Academic Scholarship, First Class in 2020
+- Excellent Academic Scholarship, Second Class in 2020
 
 ```markdown
 Syntax highlighted code block
