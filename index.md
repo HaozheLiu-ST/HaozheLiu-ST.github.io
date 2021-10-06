@@ -20,7 +20,7 @@ Liu, F., Shen, C., **Liu, H.**, Liu, G., Liu, Y., Guo, Z., & Wang, L. (2020). A 
 
 Lin, L.\*, **Liu, H.** \*, Zhang, W., Liu, F., & Lai, Z. (2021, August). Finger Vein Verification using Intrinsic and Extrinsic Features. In 2021 _IEEE International Joint Conference on Biometrics (IJCB) (pp. 1-7)_. (* Equal Contribution)
 
-Zhang, W., **Liu, H.**, & Liu, F. (2021, July). Fingerprint Presentation Attack Detection by Learning in Frequency Domain. In 2021 IEEE 2nd International Conference on Pattern Recognition and Machine Learning (PRML) (pp. 183-189). IEEE. (Oral, Best Oral Presentation)
+Zhang, W., **Liu, H.**, & Liu, F. (2021, July). Fingerprint Presentation Attack Detection by Learning in Frequency Domain. In 2021 IEEE 2nd International Conference on Pattern Recognition and Machine Learning (PRML) (pp. 183-189). IEEE. (Best Oral Presentation)
 
 Liu, F., **Liu, H.**, Zhang, W., Chen, J., Shen, L. & Wang, L. . A robust roi extraction method for biometrics using adversarial structure. _Acta Automatica Sinica_, 2020, 46(x): 1−14 doi: 10.16383/j.aas.c200156 
 
