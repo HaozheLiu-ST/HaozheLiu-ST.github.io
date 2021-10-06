@@ -20,6 +20,10 @@ M.S. in Computer Vision Institute (CVI), Shenzhen University (SZU) under the sup
 - Excellent Academic Scholarship, First Class in 2020
 - Excellent Academic Scholarship, Second Class in 2020
 
+### Selected Publications
+
+**Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. (2021). Group-wise Inhibition based Feature Regularization for Robust Classification. International Conference on Computer Vision (ICCV) 
+
 ### Research Experience
 
 #### Jarvis Lab (Tencent) 
