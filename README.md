@@ -1,2 +1,2 @@
-# haozheliu.github.io
-Homepage of HaozheLiu
+# Haozhe Liu
+Jarvis Lab, Tencent |Norwegian Biometrics Laboratory in NTNU | Computer Vision Institute, SZU | AI Lab, SUST
