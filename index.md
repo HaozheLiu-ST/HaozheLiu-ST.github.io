@@ -76,6 +76,8 @@ _Code will be made publicly available_.
 
 [IEEE Link](https://ieeexplore.ieee.org/abstract/document/9457215)
 
+---
+
 #### One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network
 
 ![](./fig/oneclass.png)
@@ -85,6 +87,8 @@ Automated Fingerprint Recognition Systems (AFRSs) have been threatened by Presen
 Accepted by _IEEE Trans on Image Processing_ 
 
 [IEEE Link](https://ieeexplore.ieee.org/abstract/document/9335499)
+
+---
 
 #### Finger Vein Verification using Intrinsic and Extrinsic Features
 
