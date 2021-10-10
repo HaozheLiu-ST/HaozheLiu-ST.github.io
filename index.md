@@ -38,6 +38,7 @@ Accepted by _ICCV-2021_
 
 [Arxiv](https://arxiv.org/abs/2103.02152) 
 
+[ICCV-Link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Group-Wise_Inhibition_Based_Feature_Regularization_for_Robust_Classification_ICCV_2021_paper.html)
 ---
 
 #### Manifold-preserved GANs 
