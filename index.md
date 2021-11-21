@@ -76,7 +76,7 @@ The vulnerability of automated fingerprint recognition systems (AFRSs) to presen
 
 Accepted by _IEEE Trans on Cybernetics_
 
-_Code will be made publicly available_. 
+[Code](https://github.com/HaozheLiu-ST/RTK-PAD)
 
 [IEEE Link](https://ieeexplore.ieee.org/abstract/document/9457215)
 
