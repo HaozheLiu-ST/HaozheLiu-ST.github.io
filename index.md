@@ -16,6 +16,8 @@ Email: liuhaozhe2019 AT email DOT szu DOT edu DOT cn   |  [Google Scholar Link](
 
 Liu, F., **Liu, H**., Zhang, W., Liu, G., & Shen, L. (2021). One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network. _IEEE Transactions on Image Processing, 30, 2394-2407_.
 
+Zhang, W.\*, **Liu, H.**\*, Ramachandra, R., Liu, F., Shen, L., & Busch, C. (2021). Face Presentation Attack Detection using Taskonomy Feature. _arXiv preprint arXiv:2111.11046_.(* Equal Contribution)
+
 Liu, F., Shen, C., **Liu, H.**, Liu, G., Liu, Y., Guo, Z., & Wang, L. (2020). A flexible touch-based fingerprint acquisition device and a benchmark database using optical coherence tomography. _IEEE Transactions on Instrumentation and Measurement_, 69(9), 6518-6529.
 
 Liu, F., Kong Z., **Liu, H.**, Zhang W. & Shen L. (2021). Fingerprint Presentation Attack Detection by Channel-wise Feature Denoising. _arXiv preprint arXiv:2111.07620._
@@ -65,6 +67,18 @@ Biometric systems are vulnerable to the Presentation Attacks (PA) performed usin
 _Code will be made publicly available_. 
 
 [Arxiv](https://arxiv.org/abs/2109.04100) 
+
+---
+
+#### Face Presentation Attack Detection using Taskonomy Feature
+
+![](./fig/taskonomy.png)
+
+The robustness and generalization ability of Presentation Attack Detection (PAD) methods is critical to ensure the security of Face Recognition Systems (FRSs). However, in the real scenario, Presentation Attacks (PAs) are various and hard to be collected. Existing PAD methods are highly dependent on the limited training set and cannot generalize well to unknown PAs. Unlike PAD task, other face-related tasks trained by huge amount of real faces (e.g. face recognition and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to apply taskonomy (task taxonomy) from other face-related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. The proposed method, first introduces task specific features from other face-related tasks, then, we design a Cross-Modal Adapter using a Graph Attention Network (GAT) to re-map such features to adapt to PAD task. Finally, face PAD is achieved by using the hierarchical features from a CNN-based PA detector and the re-mapped features. The experimental results show that the proposed method can achieve significant improvements in the complicated and hybrid datasets, when compared with the state-of-the-art methods. In particular, when trained using OULU-NPU, CASIA-FASD, and Idiap Replay-Attack, we obtain HTER (Half Total Error Rate) of 5.48% in MSU-MFSD, outperforming the baseline by 7.39%. 
+
+_Code will be made publicly available_. 
+
+[Arxiv](https://arxiv.org/abs/2111.11046) 
 
 ---
 
