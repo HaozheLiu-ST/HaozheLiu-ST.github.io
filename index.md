@@ -2,7 +2,7 @@
 
 Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzhen University (CS Rank 68 in USNews2020). He had published several papers on top-tier journals/conferences, including ICCV, IEEE trans on Image Processing, IEEE trans on Cybernetics, etc.. Haozhe Liu won First-Class Excellent Academic Scholarship in 2020 and China National Scholarship (**Rate<0.02%, Rank 1** in College of Computer Science and Software Engineering, SZU) in 2021. Currently, he is a member (internship) of [Jarvis Lab](https://jarvislab.tencent.com/), Tencent and a visiting student at AI Initiative, KAUST (supervised by Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)). He serves as a reviewer of the top-tier conferences, e.g. CVPR'2022, ICML'2022 and MICCAI'2022. His research interests include regularization, self-supervised learning, adversarial learning and reinforcement learning. 
 
-Email: liuhaozhe2019@email.szu.edu.cn   |  [Google Scholar Link](https://scholar.google.com/citations?user=QX51P54AAAAJ&hl=zh-CN) | [CV](./haozheliu.pdf)
+Email: liuhaozhe2019@email.szu.edu.cn   |  [Google Scholar Link](https://scholar.google.com/citations?user=QX51P54AAAAJ&hl=zh-CN) | [CV](./haozheliu.pdf) | [GitHub Page](https://github.com/HaozheLiu-ST)
 
 ### Selected Publications
 
