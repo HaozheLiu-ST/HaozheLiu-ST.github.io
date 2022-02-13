@@ -4,7 +4,7 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 ---
 
-Email:  haozhe.liu@kaust.edu.sa; liuhaozhe2019@email.szu.edu.cn
+\[Email\]:  haozhe.liu@kaust.edu.sa; liuhaozhe2019@email.szu.edu.cn
 
 \[Google Scholar\] : https://scholar.google.com/citations?user=QX51P54AAAAJ
 
