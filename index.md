@@ -124,9 +124,11 @@ Accepted by _IJCB-2021_
 ### Research Experience
 
 #### AI Initiative (KAUST) 
-Visiting Student / Potential PhD Student supervised by Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)).
+Visiting Student / Prospective PhD Student supervised by Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)).
 
 - Research Field:Reinforcement Learning; Imitation Learning; Generative Adversarial Task; Self-supervised Learning; Regularization
+
+---
 
 #### Jarvis Lab (Tencent) 
 Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en), Leader: [Dr. Kai Ma](https://scholar.google.ch/citations?user=FSSXeyAAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
