@@ -6,11 +6,11 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 Email:  haozhe.liu@kaust.edu.sa; liuhaozhe2019@email.szu.edu.cn
 
-[Google Scholar Link](https://scholar.google.com/citations?user=QX51P54AAAAJ&hl=zh-CN) 
+\[Google Scholar\] : https://scholar.google.com/citations?user=QX51P54AAAAJ
 
-[CV](./haozheliu.pdf) 
+\[Curriculum Vitae (CV) \] :  [Download Link](./haozheliu.pdf) 
 
-[GitHub Page](https://github.com/HaozheLiu-ST)
+\[GitHub Page\]: https://github.com/HaozheLiu-ST
 
 ---
 
@@ -28,9 +28,6 @@ Liu, F., **Liu, H**., Zhang, W., Liu, G., & Shen, L. (2021). One-Class Fingerpri
 
 Zhang, W.\*, **Liu, H.**\*, Ramachandra, R.\*, Liu, F., Shen, L., & Busch, C. (2021). Face Presentation Attack Detection using Taskonomy Feature. _arXiv preprint arXiv:2111.11046_.(**\* Equal Contribution**)
 
-Lin, L.\*, **Liu, H.** \*, Zhang, W., Liu, F., & Lai, Z. (2021, August). Finger Vein Verification using Intrinsic and Extrinsic Features. In 2021 _IEEE International Joint Conference on Biometrics (IJCB) (pp. 1-7)_. ((**\* Equal Contribution**))
-
-Liu, F., **Liu, H.**, Zhang, W., Chen, J., Shen, L. & Wang, L. . A robust roi extraction method for biometrics using adversarial structure. _Acta Automatica Sinica_, 2020, 46(x): 1−14 doi: 10.16383/j.aas.c200156 (In Chinese)
 
 ### Research Samples
 
@@ -126,10 +123,15 @@ Accepted by _IJCB-2021_
 
 ### Research Experience
 
+#### AI Initiative (KAUST) 
+Visiting Student / Potential PhD Student supervised by Prof.[Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en)).
+
+- Research Field:Reinforcement Learning; Imitation Learning; Generative Adversarial Task; Self-supervised Learning; Regularization
+
 #### Jarvis Lab (Tencent) 
 Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en), Leader: [Dr. Kai Ma](https://scholar.google.ch/citations?user=FSSXeyAAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
   
-- Proposed Dynamic Feature Aggregation to improve the robustness against adversarial attacks, which is submitted to **CVPR2022**
+- Proposed Dynamic Feature Aggregation to improve the robustness against adversarial attacks, which is submitted to **ICML'2022**
   
 ---
 
@@ -137,7 +139,7 @@ Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citat
 Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
 
 - Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to **CVPR 2022**.
-- Proposed a face presentation attack detector based on the taskonomy features, which is prepared to submit to **CVPR 2022**.
+- Proposed a face presentation attack detector based on the taskonomy features, which is submitted to **CVPR 2022**.
 
 ---
 
