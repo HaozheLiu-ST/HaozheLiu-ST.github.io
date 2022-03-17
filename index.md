@@ -73,18 +73,6 @@ _Code will be made publicly available_.
 
 ---
 
-#### Face Presentation Attack Detection using Taskonomy Feature
-
-![](./fig/taskonomy.png)
-
-The robustness and generalization ability of Presentation Attack Detection (PAD) methods is critical to ensure the security of Face Recognition Systems (FRSs). However, in the real scenario, Presentation Attacks (PAs) are various and hard to be collected. Existing PAD methods are highly dependent on the limited training set and cannot generalize well to unknown PAs. Unlike PAD task, other face-related tasks trained by huge amount of real faces (e.g. face recognition and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to apply taskonomy (task taxonomy) from other face-related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. The proposed method, first introduces task specific features from other face-related tasks, then, we design a Cross-Modal Adapter using a Graph Attention Network (GAT) to re-map such features to adapt to PAD task. Finally, face PAD is achieved by using the hierarchical features from a CNN-based PA detector and the re-mapped features. The experimental results show that the proposed method can achieve significant improvements in the complicated and hybrid datasets, when compared with the state-of-the-art methods. In particular, when trained using OULU-NPU, CASIA-FASD, and Idiap Replay-Attack, we obtain HTER (Half Total Error Rate) of 5.48% in MSU-MFSD, outperforming the baseline by 7.39%. 
-
-_Code will be made publicly available_. 
-
-[Arxiv](https://arxiv.org/abs/2111.11046) 
-
----
-
 #### Fingerprint Presentation Attack Detector using Global-Local Model
 
 ![](./fig/rtkpad.png)
@@ -153,12 +141,3 @@ M.S. supervised by [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-C
 - Proposed a Manifold-preserved GANs to mitigate the mode collapse and gradient exploding, which is prepared to submit to **CVPR 2022**.
 - Collected a famous presentation attack dataset based on OCT and **for the first time** established a one-class framework for OCT based PAD. This work is accepted by **IEEE TIP**
 - Proposed a presentation attack detector using Global-Local model, which reaches over 90% in terms of TDR@FDR=1% on LivDet2017 **for the first time**. (Accepted by **IEEE TCYB**)
-
-
-### Education
-
-M.S. in Computer Vision Institute (CVI), Shenzhen University (SZU) under the supervision of [Prof. Feng Liu](https://scholar.google.com/citations?hl=zh-CN&user=45uLWocAAAAJ) and [Prof. Linlin Shen](https://scholar.google.com/citations?hl=zh-CN&user=AZ_y9HgAAAAJ)
-
-- China National Scholarship (Rate<0.02%, Rank 1 in SZU) in 2021 
-- Excellent Academic Scholarship, First Class in 2020
-- Excellent Academic Scholarship, Second Class in 2020
