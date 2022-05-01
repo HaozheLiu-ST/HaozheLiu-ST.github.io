@@ -21,6 +21,8 @@ He is invited as a reviewwer for CVPR'2022, ICML'2022, ECCV'2022 and MICCAI'2022
 
 One paper is accepted by CVPR'2022!
 
+1 paper is submitted to ICML'2022, 2 papers are submitted to MICCAI'2022 and 3 papers are submitted to ECCV'2022. Best wishes! 
+
 ---
 
 ### Selected Publications
@@ -80,8 +82,10 @@ Visiting Student / Prospective PhD Student supervised by Prof. [Juergen Schmidhu
 #### Jarvis Lab (Tencent) 
 Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citations?user=w3iS1G0AAAAJ&hl=en) & [Dr. Yuexiang Li](https://scholar.google.com/citations?user=WsKu4EMAAAAJ&hl=en), Leader: [Dr. Kai Ma](https://scholar.google.ch/citations?user=FSSXeyAAAAAJ&hl=en) and Director: [Dr. Yefeng Zheng](https://scholar.google.ch/citations?user=vAIECxgAAAAJ&hl=en) 
   
-- Proposed Dynamic Feature Aggregation to improve the robustness against adversarial attacks, which is submitted to **ICML'2022**
-  
+- Proposed Dynamic Feature Aggregation to improve the robustness against adversarial attacks, which is submitted to **ICML'2022**.
+
+- Proposed offline entropy estimation to combat mode collapse, which is submitted to **ECCV'2022**. (This project is cooperated with AI Initiative, KAUST.)  
+
 ---
 
 #### Norwegian Biometrics Laboratory (NTNU)
