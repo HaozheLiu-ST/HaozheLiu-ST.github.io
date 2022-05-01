@@ -68,56 +68,6 @@ _Code will be made publicly available_.
 
 ---
 
-#### Taming Self-Supervised Learning for Presentation Attack Detection: In-Image De-Folding and Out-of-Image De-Mixing
-
-![](./fig/ssl.png)
-
-Biometric systems are vulnerable to the Presentation Attacks (PA) performed using various Presentation Attack Instruments (PAIs). Even though there are numerous Presentation Attack Detection (PAD) techniques based on both deep learning and hand-crafted features, the generalization of PAD for unknown PAI is still a challenging problem. The common problem with existing deep learning-based PAD techniques is that they may struggle with local optima, resulting in weak generalization against different PAs. In this work, we propose to use self-supervised learning to find a reasonable initialization against local trap, so as to improve the generalization ability in detecting PAs on the biometric system. The proposed method, denoted as IF-OM, is based on a global-local view coupled with De-Folding and De-Mixing to derive the task-specific representation for PAD.During De-Folding, the proposed technique will learn region-specific features to represent samples in a local pattern by explicitly maximizing cycle consistency. While, De-Mixing drives detectors to obtain the instance-specific features with global information for more comprehensive representation by maximizing topo- logical consistency. Extensive experimental results show that the proposed method can achieve significant improvements in terms of both face and fingerprint PAD in more complicated and hybrid datasets, when compared with the state-of- the-art methods. Specifically, when training in CASIA-FASD and Idiap Replay-Attack, the proposed method can achieve 18.60% Equal Error Rate (EER) in OULU-NPU and MSU-MFSD, exceeding baseline performance by 9.54%. 
-
-_Code will be made publicly available_. 
-
-[Arxiv](https://arxiv.org/abs/2109.04100) 
-
----
-
-#### Fingerprint Presentation Attack Detector using Global-Local Model
-
-![](./fig/rtkpad.png)
-
-The vulnerability of automated fingerprint recognition systems (AFRSs) to presentation attacks (PAs) promotes the vigorous development of presentation attack detection (PAD) technology. However, PAD methods have been limited by information loss and poor generalization ability resulting in new PA materials and fingerprint sensors. This paper thus proposes a global-local model based PAD (RTK-PAD) method to overcome those limitations to some extent. The proposed method consists of three modules, named as global module, local module and rethinking module. By adopting Cut-out based global module, a global spoofness score predicted from non-local features of the whole fingerprint images can be achieved. While by using texture in-painting based local module, a local spoofness score predicted from fingerprint patches is obtained. The two modules are not independent, but connected through our proposed rethinking module by localizing two discriminative patches for local module based on the global spoofness score. Finally, the fusion spoofness score by averaging the global and local spoofness scores is used for PAD. Our experimental results evaluated on LivDet 2017 show that the proposed RTK-PAD can achieve an Average Classification Error (ACE) of 2.28% and a True Detection Rate (TDR) of 91.19% when the False Detection Rate (FDR) equals to 1.0%, which significantly outperformed the state-of-the-art methods by ∼10% in terms of TDR (91.19% vs. 80.74%). 
-
-Accepted by _IEEE Trans on Cybernetics_
-
-[Code](https://github.com/HaozheLiu-ST/RTK-PAD)
-
-[IEEE Link](https://ieeexplore.ieee.org/abstract/document/9457215)
-
----
-
-#### One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network
-
-![](./fig/oneclass.png)
-
-Automated Fingerprint Recognition Systems (AFRSs) have been threatened by Presentation Attack (PA) since its existence. It is thus desirable to develop effective presentation attack detection (PAD) methods. However, the unpredictable PAs make PAD be a challenging problem. This paper proposes a novel One-Class PAD (OCPAD) method for Optical Coherence Technology (OCT) images based fingerprint PA detection. The proposed OCPAD model is learned from a training set only consists of Bonafides (i.e. real fingerprints). The reconstruction error and latent code obtained from the trained auto-encoder network in the proposed model is taken as the basis for the following spoofness score calculation. To get more accurate reconstruction error, we propose an activation map based weighting model to further refine the accuracy of reconstruction error. We test different statistics and distance measures and finally use a decision level fusion to make the final prediction. Our experiments are performed using a dataset with 93200 bonafide scans and 48400 PA scans. The results show that the proposed OCPAD can achieve a True Positive Rate (TPR) of 99.43% when the False Positive Rate (FPR) equals to 10% and a TPR of 96.59% when FPR=5%, which significantly outperformed a feature based approach and a supervised learning based model requiring PAs for training.
-
-Accepted by _IEEE Trans on Image Processing_ 
-
-[IEEE Link](https://ieeexplore.ieee.org/abstract/document/9335499)
-
----
-
-#### Finger Vein Verification using Intrinsic and Extrinsic Features
-
-![](./fig/fingervein.png)
-
-Finger vein has attracted substantial attention due to its good security. However, the variability of the finger vein data will be caused by the illumination, environment temperature, acquisition equipment, and so on, which is a great challenge for finger vein recognition. To address this problem, we propose a novel method to design an end- to-end deep Convolutional Neural Network (CNN) for robust finger vein recognition. The approach mainly includes an Intrinsic Feature Learning (IFL) module using an auto-encoder network and an Extrinsic Feature Learning (EFL) module based on a Siamese network. The IFL module is designed to estimate the expectation of intra-class finger vein images with various offsets and rotation, while the EFL module is constructed to learn the inter-class feature representation. Then, robust verification is finally achieved by considering the distances of both intrinsic and extrinsic features. We conduct experiments on two public datasets (i.e. SDUMLA-HMT and MMCBNU 6000) and an in-house dataset (MultiView-FV) with more deformation finger vein images, and the equal error rate (EER) is 0.47%, 0.1%, and 1.69% respectively. The comparison against baseline and existing algorithms shows the effectiveness of our proposed method.
-
-Accepted by _IJCB-2021_ 
-
-[Dataset Page](https://github.com/FengLiu-0013/A-challenging-benchmark-dataset-with-multiview-finger-vein-images)
-
-[IEEE Link](https://ieeexplore.ieee.org/abstract/document/9484401)
-
 ### Research Experience
 
 #### AI Initiative (KAUST) 
@@ -137,8 +87,8 @@ Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citat
 #### Norwegian Biometrics Laboratory (NTNU)
 Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
 
-- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to **CVPR 2022**.
-- Proposed a face presentation attack detector based on the taskonomy features, which is submitted to **CVPR 2022**.
+- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to **TIFS**.
+- Proposed a face presentation attack detector based on the taskonomy features, which is submitted to **ECCV 2022**.
 
 ---
 
