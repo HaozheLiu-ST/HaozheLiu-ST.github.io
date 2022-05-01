@@ -17,11 +17,17 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 **He will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
 
+Our paper
+
 He is invited as a reviewwer for CVPR'2022, ICML'2022, ECCV'2022 and MICCAI'2022! 
 
-One paper is accepted by CVPR'2022!
+[Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)
 
-1 paper is submitted to ICML'2022, 2 papers are submitted to MICCAI'2022 and 3 papers are submitted to ECCV'2022. Best wishes! 
+1 paper is submitted to ICML'2022, 2 papers are submitted to MICCAI'2022 and 3 papers are submitted to ECCV'2022. Best wishes for them!  
+
+Our paper (Scene Consistency Representation Learning for Video Scene Sgementation) is accepted by CVPR'2022!
+
+Our paper (Group-wise Inhibition based Feature Regularization for Robust Classification) is accepted by ICCV'2021!
 
 ---
 
