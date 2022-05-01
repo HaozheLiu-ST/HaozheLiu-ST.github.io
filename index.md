@@ -81,7 +81,7 @@ _Code will be made publicly available_.
 #### AI Initiative (KAUST) 
 Visiting Student / Prospective PhD Student supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
 
-- Research Field:Reinforcement Learning; Imitation Learning; Generative Adversarial Task; Self-supervised Learning; Regularization
+- Research Field:Reinforcement Learning; Upside-Down Reinforcement Learning; Generative Adversarial Task; Self-supervised Learning; Regularization
 
 ---
 
