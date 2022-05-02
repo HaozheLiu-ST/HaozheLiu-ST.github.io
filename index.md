@@ -17,8 +17,6 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 **He will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
 
-Our paper
-
 He is invited as a reviewer for CVPR'2022, ICML'2022, ECCV'2022 and MICCAI'2022! 
 
 [Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)! 
