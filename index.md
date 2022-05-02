@@ -15,17 +15,19 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 ---
 ### News
 
-**He will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
+\[2022-9\] **He will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
 
-He is invited as a reviewer for CVPR'2022, ICML'2022, ECCV'2022 and MICCAI'2022! 
+\[2022-5\] [Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)! 
 
-[Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)! 
+\[2022-5\] 1 paper is submitted to ICML'2022, 2 papers are submitted to MICCAI'2022 and 3 papers are submitted to ECCV'2022. Best wishes for them!  
 
-1 paper is submitted to ICML'2022, 2 papers are submitted to MICCAI'2022 and 3 papers are submitted to ECCV'2022. Best wishes for them!  
+\[2022-4\] He is invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
 
-Our paper (Scene Consistency Representation Learning for Video Scene Sgementation) is accepted by CVPR'2022!
+\[2022-3\] Our paper (Scene Consistency Representation Learning for Video Scene Sgementation) is accepted by CVPR'2022!
 
-Our paper (Group-wise Inhibition based Feature Regularization for Robust Classification) is accepted by ICCV'2021!
+\[2021-10\] He is invited as a reviewer for CVPR'2022.
+
+\[2021-7\] Our paper (Group-wise Inhibition based Feature Regularization for Robust Classification) is accepted by ICCV'2021!
 
 ---
 
