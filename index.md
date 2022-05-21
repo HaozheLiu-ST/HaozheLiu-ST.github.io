@@ -6,13 +6,6 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 \[Email\]:  haozhe.liu@kaust.edu.sa; liuhaozhe2019@email.szu.edu.cn
 
-\[Google Scholar\] : https://scholar.google.com/citations?user=QX51P54AAAAJ
-
-\[Curriculum Vitae (CV) \] :  [Download Link](./haozheliu.pdf) 
-
-\[GitHub Page\]: https://github.com/HaozheLiu-ST
-
----
 ### News
 
 \[2022-9\] **He will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
@@ -29,7 +22,6 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 \[2021-7\] Our paper (Group-wise Inhibition based Feature Regularization for Robust Classification) is accepted by ICCV'2021!
 
----
 
 ### Selected Publications
 
