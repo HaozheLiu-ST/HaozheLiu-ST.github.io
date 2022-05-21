@@ -7,36 +7,22 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 ### News
 
 \[2022-9\] **He will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
-
 \[2022-5\] [Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)! 
-
 \[2022-5\] 2 papers are submitted to MICCAI'2022 and 3 papers are submitted to ECCV'2022. Best wishes for them!  
-
 \[2022-4\] He is invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
-
 \[2022-3\] Our paper (Scene Consistency Representation Learning for Video Scene Sgementation) is accepted by CVPR'2022!
-
 \[2021-10\] He is invited as a reviewer for CVPR'2022.
-
 \[2021-7\] Our paper (Group-wise Inhibition based Feature Regularization for Robust Classification) is accepted by ICCV'2021!
-
 
 ### Selected Publications
 
 **Liu, H.**, Wu, H., Xie, W., Liu, F., & Shen, L. (2021). Group-wise Inhibition based Feature Regularization for Robust Classification. _International Conference on Computer Vision (ICCV)_ 
-
 **Liu, H.**, Ji, H., Li, Y., He, N., Wu, H., Liu, F., Shen, L. & Zheng, Y. (2022). Robust Representation via Dynamic Feature Aggregation. arXiv preprint arXiv:2205.07466.
-
 **Liu, H.**, Liang, H., Hou, X., Wu, H., Liu, F., Shen, L. (2021) Manifold-preserved GANs. _arXiv preprint arXiv:2109.08955_. 
-
 **Liu, H.**, Kong, Z., Ramachandra, R., Liu, F., Shen, L., & Busch, C. (2021). Taming Self-Supervised Learning for Presentation Attack Detection: In-Image De-Folding and Out-of-Image De-Mixing. _arXiv preprint arXiv:2109.04100_.
-
 **Liu, H.**, Zhang, W., Liu, F., Wu, H.,& Shen, L. (2021). Fingerprint Presentation Attack Detector Using Global-Local Model. _IEEE Transactions on Cybernetics_.
-
 Liu, F., **Liu, H**., Zhang, W., Liu, G., & Shen, L. (2021). One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network. _IEEE Transactions on Image Processing, 30, 2394-2407_.
-
 Zhang, W.\*, **Liu, H.**\*, Ramachandra, R.\*, Liu, F., Shen, L., & Busch, C. (2021). Face Presentation Attack Detection using Taskonomy Feature. _arXiv preprint arXiv:2111.11046_.(**\* Equal Contribution**)
-
 
 ### Research Samples
 
