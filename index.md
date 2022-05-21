@@ -69,8 +69,6 @@ Deep convolutional neural network (CNN) based mod- els are vulnerable to the adv
 
 [Code](https://github.com/HaozheLiu-ST/DynamicFeatureAggregation) [Arxiv](https://arxiv.org/abs/2205.07466)
 
----
-
 
 
 ### Research Experience
