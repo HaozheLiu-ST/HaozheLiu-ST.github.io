@@ -5,3 +5,6 @@ plugins:
 title: ['Haozhe Liu']
 description: ['AI Initiative, KAUST | Jarvis Lab, Tencent']
 show_downloads: false
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
