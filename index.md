@@ -8,6 +8,8 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 \[2022-9\] **He will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
 
+\[2022-6\] Haozhe is selected as one of the distinguished graduates at Shenzhen University (Rate<10%). 
+
 \[2022-5\] [Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)! 
 
 \[2022-5\] 2 papers are submitted to MICCAI'2022 and 3 papers are submitted to ECCV'2022. Best wishes for them!  
