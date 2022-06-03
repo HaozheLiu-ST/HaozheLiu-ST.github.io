@@ -74,7 +74,7 @@ Deep convolutional neural network (CNN) based mod- els are vulnerable to the adv
 ---
 
 
-#### Dynamic Feature Aggregation 
+#### Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.
 
 ![](./fig/objectdetection.png)
 
