@@ -8,11 +8,11 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 \[2022-9\] **He will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
 
+\[2022-6\] Our papers (Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays) and (A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images) are accepted by MICCAI'2022!
+
 \[2022-6\] Haozhe is selected as one of the distinguished graduates at Shenzhen University (Rate<10%). 
 
-\[2022-5\] [Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)! 
-
-\[2022-5\] 2 papers are submitted to MICCAI'2022 and 3 papers are submitted to ECCV'2022. Best wishes for them!  
+\[2022-5\] [Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)!  
 
 \[2022-4\] He is invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
 
@@ -29,6 +29,8 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 **Liu, H.**, Ji, H., Li, Y., He, N., Wu, H., Liu, F., Shen, L. & Zheng, Y. (2022). Robust Representation via Dynamic Feature Aggregation. arXiv preprint arXiv:2205.07466.
 
 **Liu, H.**, Liang, H., Hou, X., Wu, H., Liu, F., Shen, L. (2021) Manifold-preserved GANs. _arXiv preprint arXiv:2109.08955_. 
+
+Ji, H., **Liu, H.**, Xie J., Li, Y., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. (2022)  _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_. (**\* Equal Contribution**)
 
 **Liu, H.**, Kong, Z., Ramachandra, R., Liu, F., Shen, L., & Busch, C. (2021). Taming Self-Supervised Learning for Presentation Attack Detection: In-Image De-Folding and Out-of-Image De-Mixing. _arXiv preprint arXiv:2109.04100_.
 
