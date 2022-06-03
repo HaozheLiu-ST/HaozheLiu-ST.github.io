@@ -73,6 +73,18 @@ Deep convolutional neural network (CNN) based mod- els are vulnerable to the adv
 
 ---
 
+
+#### Dynamic Feature Aggregation 
+
+![](./fig/objectdetection.png)
+
+Accurate abnormality localization in chest X-rays (CXR) can benefit the clinical diagnosis of various thoracic diseases. However, the lesion-level annotation can only be performed by experienced radiologists, and it is tedious and time-consuming, thus difficult to acquire. Such a situation results in a difficulty to develop a fully-supervised abnormality localization system for chest X-rays. In this regard, we propose to train the CXR abnormality localization framework via a weakly semi-supervised strategy, termed Point Beyond Class (PBC), which utilizes a small number of fully annotated CXRs with lesion-level bounding boxes and extensive weakly annotated samples by points. Such a point annotation setting can provide weakly instance-level information for abnormality localization with a marginal annotation cost. Particularly, the core idea behind our PCB is to learn a robust and accurate mapping from the point annotations to the bounding boxes against the variance of annotated points. To achieve that, a regularization term, namely multi-point consistency, is proposed, which drives the model to generate the consistent bounding box from different point annotations inside the same abnormality. Furthermore, a self-supervision, termed symmetric consistency, is also proposed to deeply exploit the useful information from the weakly annotated data for abnormality localization. Experimental results on RSNA and VinDr-CXR datasets justify the effectiveness of the proposed method. An improvement of ~5% in mAP can be achieved by our PBC, compared to the current state-of-the-art method (i.e. Point DETR).
+
+[Code](https://github.com/HaozheLiu-ST/Point-Beyond-Class) Camera-ready version is coming soon. 
+
+---
+
+
 #### Fingerprint Presentation Attack Detector Using Global-Local Model
 
 ![](./fig/rtkpad.png)
