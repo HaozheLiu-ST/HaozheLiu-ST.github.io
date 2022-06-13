@@ -30,9 +30,9 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 **Liu, H.**, Liang, H., Hou, X., Wu, H., Liu, F., Shen, L. (2021) Manifold-preserved GANs. _arXiv preprint arXiv:2109.08955_. 
 
-Ji, H. \*, **Liu, H.** \*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. (2022) Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_. (**\* Equal Contribution**)
+Ji, H.\*, **Liu, H.**\*, Li, Y.\*, Xie J., He, N., Huang, Y., Dong, W., Chen, X., Shen L. & Zheng, Y. (2022) Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays.  _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_. (**\* Equal Contribution**)
 
-Zhang, W. \*, **Liu, H.** \*, Li, Y. \*, Sun, X., Liu, F., He, N., & Zheng, Y. (2022) A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images.  _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_. (**\* Equal Contribution**)
+Zhang, W.\*, **Liu, H.**\*, Li, Y.\*, Sun, X., Liu, F., He, N., & Zheng, Y. (2022) A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images.  _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)_. (**\* Equal Contribution**)
 
 **Liu, H.**, Kong, Z., Ramachandra, R., Liu, F., Shen, L., & Busch, C. (2021). Taming Self-Supervised Learning for Presentation Attack Detection: In-Image De-Folding and Out-of-Image De-Mixing. _arXiv preprint arXiv:2109.04100_.
 
