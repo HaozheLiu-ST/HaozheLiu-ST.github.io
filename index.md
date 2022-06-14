@@ -6,7 +6,7 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 ### News
 
-\[2022-9\] **He will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
+\[2022-9\] **I will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
 
 \[2022-6\] Our papers (Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays) and (A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images) are accepted by MICCAI'2022!
 
@@ -14,11 +14,11 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 \[2022-5\] [Our method (Group-wise Inhibition)](https://github.com/LinusWu/TENET_Training) is merged into the official benchmark of [ImageNet-C](https://github.com/hendrycks/robustness)!  
 
-\[2022-4\] He is invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
+\[2022-4\] I am invited as a reviewer for ICML'2022, ECCV'2022 and MICCAI'2022.  
 
 \[2022-3\] Our paper (Scene Consistency Representation Learning for Video Scene Sgementation) is accepted by CVPR'2022!
 
-\[2021-10\] He is invited as a reviewer for CVPR'2022.
+\[2021-10\] I am invited as a reviewer for CVPR'2022.
 
 \[2021-7\] Our paper (Group-wise Inhibition based Feature Regularization for Robust Classification) is accepted by ICCV'2021!
 
