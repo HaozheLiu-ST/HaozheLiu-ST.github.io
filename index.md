@@ -8,6 +8,8 @@ Haozhe Liu is working towards the MS degree in Computer Vision Institute, Shenzh
 
 \[2022-9\] **I will join AI Initiative, KAUST to pursue the PhD degree under the supervision of Juergen Schmidhuber!**
 
+\[2022-7\] Our paper (Effective Presentation Attack Detection Driven by Face Related Task) is accepted by ECCV'2022! 
+
 \[2022-6\] Our papers (Point Beyond Class: A Benchmark for Weakly Semi-Supervised Abnormality Localization in Chest X-Rays) and (A Multi-task Network with Weight Decay Skip Connection Training for Anomaly Detection in Retinal Fundus Images) are accepted by MICCAI'2022!
 
 \[2022-6\] Haozhe is selected as one of the distinguished graduates at Shenzhen University (Rate<10%). 
