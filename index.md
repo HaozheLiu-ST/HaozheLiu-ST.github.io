@@ -86,6 +86,15 @@ Accepted by _MICCAI_'2022 [Code](https://github.com/HaozheLiu-ST/Point-Beyond-Cl
 
 ---
 
+#### Effective Presentation Attack Detection Driven by Face Related Task
+
+![](./fig/face.png)
+
+The robustness and generalization ability of Presentation Attack Detection (PAD) methods is critical to ensure the security of Face Recognition Systems (FRSs). However, in a real scenario, Presentation Attacks (PAs) are various and it is hard to predict the Presentation Attack Instrument (PAI) species that will be used by the attacker. Existing PAD methods are highly dependent on the limited training set and cannot generalize well to unknown PAI species. Unlike this specific PAD task, other face related tasks trained by huge amount of real faces (e.g. face recognition and attribute editing) can be effectively adopted into different application scenarios. Inspired by this, we propose to trade position of PAD and face related work in a face system and apply the free acquired prior knowledge from face related tasks to solve face PAD, so as to improve the generalization ability in detecting PAs. The proposed method, first introduces task specific features from other face related task, then, we design a Cross-Modal Adapter using a Graph Attention Network (GAT) to re-map such features to adapt to PAD task. Finally, face PAD is achieved by using the hierarchical features from a CNN-based PA detector and the re-mapped features. The experimental results show that the proposed method can achieve significant improvements in the complicated and hybrid datasets, when compared with the state-of-the-art methods. In particular, when training on the datasets OULU-NPU, CASIA-FASD, and Idiap Replay-Attack, we obtain HTER (Half Total Error Rate) of 5.48% for the testing dataset MSU-MFSD, outperforming the baseline by 7.39%.
+
+Accepted by _ECCV_'2022 [Code](https://github.com/WentianZhang-ML/FRT-PAD) Camera-ready version is coming soon. 
+
+---
 
 #### Fingerprint Presentation Attack Detector Using Global-Local Model
 
@@ -117,7 +126,7 @@ Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citat
 Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
 
 - Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to **TIFS**.
-- Proposed a face presentation attack detector based on the taskonomy features, which is submitted to **ECCV'2022**.
+- Proposed a face presentation attack detector based on the taskonomy features, which is accepted by **ECCV'2022**.
 
 ---
 
