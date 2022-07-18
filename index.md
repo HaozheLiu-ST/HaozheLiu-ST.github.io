@@ -118,7 +118,7 @@ Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citat
   
 - Proposed Dynamic Feature Aggregation to improve the robustness against adversarial attacks.
 
-- Proposed offline entropy estimation to combat mode collapse, which is submitted to **ECCV'2022**. (This project is cooperated with AI Initiative, KAUST.)  
+- Proposed offline entropy estimation to combat mode collapse, which is submitted to **AAAI'2022**. (This project is cooperated with AI Initiative, KAUST.)  
 
 ---
 
