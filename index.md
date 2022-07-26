@@ -107,9 +107,11 @@ Accepted by _IEEE-TCYB_ [Code](https://github.com/HaozheLiu-ST/RTK-PAD) [IEEE Li
 ### Research Experience
 
 #### AI Initiative (KAUST) 
-Visiting Student / Prospective PhD Student supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en).
+ PhD Candidate supervised by Prof. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en) and [Bernard Ghanem](https://scholar.google.com/citations?user=rVsGTeEAAAAJ).
 
-- Research Field:Reinforcement Learning; Upside-Down Reinforcement Learning; Generative Adversarial Task; Self-supervised Learning; Regularization
+- Research Field includes Video based Decision System, Data-efficient Machine Learning 
+
+- Joined the Project, Highway RL, to design a novel multi-step Value Iteration method with exponential contraction rate but only linear computational complexity, which is submitted to **NIPS'2022**.
 
 ---
 
@@ -120,12 +122,16 @@ Internship supervised by Mentor: [Dr. Nanjun He](https://scholar.google.ch/citat
 
 - Proposed offline entropy estimation to combat mode collapse, which is submitted to **AAAI'2022**. (This project is cooperated with AI Initiative, KAUST.)  
 
+- Proposed Point Beyond Class to reduce the annotation cost for medical object detection, which is accepted by **MICCAI'2022**.
+
+- Participate to NICO Challenge (ECCV'2022 workshop), our team reach to 5th/40 in both tracks at Phase I. 
+
 ---
 
 #### Norwegian Biometrics Laboratory (NTNU)
 Visiting student supervised by  [Prof. Raghavendra Ramachandra](https://scholar.google.com/citations?user=OIYIrmIAAAAJ&hl=en) and [Prof. Christoph Busch](https://scholar.google.com/citations?user=qsopcXIAAAAJ&hl=en)
 
-- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to **TIFS**.
+- Proposed a self-supervised learning based method for face and fingerprint presentation attack detection, which is submitted to **TNNLS**.
 - Proposed a face presentation attack detector based on the taskonomy features, which is accepted by **ECCV'2022**.
 
 ---
